@@ -1,13 +1,8 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
-package bab_vii;
-
-/**
- *
  * @author Cipta Ramadhani
+ * Buku Dasar Algoritma dan Struktur Data Bahasa Java
  */
+
 public class selection_sort {
     
     public static int[] selec(int[] array)
