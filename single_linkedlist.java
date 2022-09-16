@@ -1,8 +1,7 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+ * @author Cipta Ramadhani
+ * Buku Dasar Algoritma dan Struktur Data Bahasa Java
  */
-package bab_ix;
 
 class data
 {
