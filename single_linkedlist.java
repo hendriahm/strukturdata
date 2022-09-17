@@ -158,7 +158,7 @@ public class single_linkedlist
         }
         
         if(hasil)
-            System.out.println("nilai ditemukan pada lsit ke "+x);
+            System.out.println("nilai ditemukan pada list ke "+x);
         else
             System.out.println("maaf, data tidak ditemukan");
     }
@@ -166,7 +166,7 @@ public class single_linkedlist
     static void display()
     {
         data temp=head;
-        System.out.println("jumlah data dalam linked lsit :"+list);
+        System.out.println("jumlah data dalam linked list :"+list);
         while(temp!=null)
         {
             System.out.println("isi linked list :"+temp.nilai);
